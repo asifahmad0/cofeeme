@@ -1,7 +1,7 @@
 import React from "react";
-import AppStoreImg from "../assets/website/app_store.png";
-import PlayStoreImg from "../assets/website/play_store.png";
-import BgPng from "../assets/website/coffee-beans-bg.png";
+import AppStoreImg from "../assets/app_store.png";
+import PlayStoreImg from "../assets/play_store.png";
+import BgPng from "../assets/coffee-beans-bg.png";
 
 const backgroundStyle = {
   backgroundImage: `url(${BgPng})`,

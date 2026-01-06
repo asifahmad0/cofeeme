@@ -12,7 +12,7 @@ const Navebar = ({sidebar, setSidebar}) => {
         transition={{type:"spring", stiffness:100,damping:10, delay:1.2}}
         className="flex justify-between items-center">
             {/* logo section */}
-            <h1 className="text-2xl font-semibold">Ahmad <span className="text-[#f19509]">Coffee</span></h1>
+            <h1 className="text-2xl font-semibold">Ahmad <span className="text-[#f19509]">Cafe</span></h1>
             {/* Nave Manue section */}
             <div onClick={()=> setSidebar(!sidebar)}>
                 <GiHamburgerMenu className="text-3xl cursor-pointer" />

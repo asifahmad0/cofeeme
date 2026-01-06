@@ -1,6 +1,6 @@
 import React from "react";
 import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa6";
-import FooterBg from "../assets/website/coffee-footer.jpg";
+import FooterBg from "../assets/coffee-footer.jpg";
 
 const FooterLinks = [
   {
@@ -41,7 +41,7 @@ const Footer = () => {
               className="font-semibold tracking-widest text-2xl sm:text-3xl font-['Pacifico', 'Sriracha', 'cursive'],
 "
             >
-              Coffee Cafe
+              Ahmad Cafe
             </a>
             <p className="  pt-4">
               Cofee Me, Asif Ahmad, Unforgettable Moments Your Perfect

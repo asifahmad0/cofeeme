@@ -3,7 +3,7 @@ import BannerImg from "../assets/coffee-white.png";
 import { GrSecure } from "react-icons/gr";
 import { IoFastFood } from "react-icons/io5";
 import { GiFoodTruck } from "react-icons/gi";
-import BgImg from "../assets/website/coffee-texture.jpg";
+import BgImg from "../assets/coffee-texture.jpg";
 
 const bgImage = {
   backgroundImage: `url(${BgImg})`,
