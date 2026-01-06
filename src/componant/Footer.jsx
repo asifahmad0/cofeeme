@@ -3,22 +3,22 @@ import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa6";
 import FooterBg from "../assets/coffee-footer.jpg";
 
 const FooterLinks = [
-  {
-    title: "Home",
-    link: "/#",
-  },
-  {
-    title: "About",
-    link: "/#about",
-  },
-  {
-    title: "Contact",
-    link: "/#contact",
-  },
-  {
-    title: "Blog",
-    link: "/#blog",
-  },
+  // {
+  //   title: "Home",
+  //   link: "/#",
+  // },
+  // {
+  //   title: "About",
+  //   link: "/#about",
+  // },
+  // {
+  //   title: "Contact",
+  //   link: "/#contact",
+  // },
+  // {
+  //   title: "Blog",
+  //   link: "/#blog",
+  // },
 ];
 
 const bgImage = {
